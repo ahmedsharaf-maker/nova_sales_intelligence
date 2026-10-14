@@ -47,6 +47,10 @@ def load_repo_data():
 
 df = load_repo_data()
 
+st.write("Data folder:", str(DATA_DIR))
+st.write("CSV files found:", [str(p) for p in DATA_DIR.rglob("*.csv")])
+st.write("Rows loaded:", len(df))
+
 with st.sidebar:
     st.header("Dashboard Filters")
     st.caption("You can use sample CSV files committed in the repository, or upload CSV/ZIP files.")
