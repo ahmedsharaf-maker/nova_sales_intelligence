@@ -38,8 +38,8 @@ def read_csv_bytes(name, content):
 def load_repo_data():
     frames = []
     if DATA_DIR.exists():
-for path in DATA_DIR.rglob("*.csv"):
-    try:
+      for path in DATA_DIR.rglob("*.csv"):
+          try:
         temp = pd.read_csv(path)
         st.write(f"Loaded {path.name}: {len(temp)} rows")
         frames.append(temp)
