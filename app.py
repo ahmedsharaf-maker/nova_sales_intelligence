@@ -26,7 +26,7 @@ st.markdown("""
 st.title("🚀 NOVA Sales Intelligence")
 st.caption("ELECTRONICS • SALES • BUSINESS INTELLIGENCE")
 
-DATA_DIR = Path(__file__).parent / "data"
+DATA_DIR = Path(__file__).parent / "data" / "data"
 
 def read_csv_bytes(name, content):
     try:
