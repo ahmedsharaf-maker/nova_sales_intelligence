@@ -40,7 +40,7 @@ def load_repo_data():
     if DATA_DIR.exists():
       for path in DATA_DIR.rglob("*.csv"):
           try:
-        temp = pd.read_csv(path)
+              temp = pd.read_csv(path)
         st.write(f"Loaded {path.name}: {len(temp)} rows")
         frames.append(temp)
     except Exception as e:
