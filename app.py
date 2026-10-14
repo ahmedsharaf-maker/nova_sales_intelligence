@@ -38,11 +38,14 @@ def read_csv_bytes(name, content):
 def load_repo_data():
     frames = []
     if DATA_DIR.exists():
-        for path in DATA_DIR.rglob("*.csv"):
-            try:
-                frames.append(pd.read_csv(path))
-            except Exception:
-                pass
+       for path in DATA_DIR.rglob("*.csv"):
+    try:
+        temp = pd.read_csv(path)
+        st.write(f"Loaded {path.name}: {len(temp)} rows")
+        frames.append(temp)
+    except Exception as e:
+        st.error(f"Error reading {path.name}: {e}")
+        
     return pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
 
 df = load_repo_data()
