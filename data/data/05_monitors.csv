@@ -1,0 +1,31 @@
+﻿Order_ID,Order_Date,Category,Brand,Product,Unit_Price_EGP,Unit_Cost_EGP,Quantity,Discount_Percent,Revenue_EGP,Cost_EGP,Profit_EGP,Region,Sales_Channel,Payment_Method
+ORD-0205,2025-01-24,Monitor,LG,24MP400,4900,3850,2,0,9800.0,7700,2100.0,Tanta,Online,Cash
+ORD-0276,2025-01-29,Monitor,LG,24MP400,4900,3850,4,10,17640.0,15400,2240.0,Tanta,Online,Wallet
+ORD-0334,2025-01-29,Monitor,LG,24MP400,4900,3850,1,0,4900.0,3850,1050.0,Tanta,Retail Store,Bank Transfer
+ORD-0248,2025-02-04,Monitor,LG,24MP400,4900,3850,5,15,20825.0,19250,1575.0,Tanta,Marketplace,Cash
+ORD-0105,2025-02-13,Monitor,LG,24MP400,4900,3850,4,0,19600.0,15400,4200.0,Mansoura,Retail Store,Credit Card
+ORD-0268,2025-03-11,Monitor,Samsung,24-inch FHD,5200,4100,1,10,4680.0,4100,580.0,Mansoura,Online,Bank Transfer
+ORD-0075,2025-03-17,Monitor,Samsung,24-inch FHD,5200,4100,1,5,4940.0,4100,840.0,Cairo,Online,Bank Transfer
+ORD-0042,2025-04-06,Monitor,LG,24MP400,4900,3850,1,0,4900.0,3850,1050.0,Cairo,Marketplace,Credit Card
+ORD-0079,2025-05-07,Monitor,Samsung,24-inch FHD,5200,4100,2,10,9360.0,8200,1160.0,Alexandria,Marketplace,Bank Transfer
+ORD-0316,2025-05-28,Monitor,Samsung,24-inch FHD,5200,4100,2,0,10400.0,8200,2200.0,Benha,Online,Cash
+ORD-0148,2025-06-19,Monitor,LG,24MP400,4900,3850,4,10,17640.0,15400,2240.0,Mansoura,Online,Bank Transfer
+ORD-0047,2025-06-28,Monitor,LG,24MP400,4900,3850,1,10,4410.0,3850,560.0,Giza,Retail Store,Wallet
+ORD-0213,2025-06-28,Monitor,LG,24MP400,4900,3850,2,0,9800.0,7700,2100.0,Benha,Online,Credit Card
+ORD-0024,2025-07-05,Monitor,Samsung,24-inch FHD,5200,4100,1,10,4680.0,4100,580.0,Alexandria,Online,Cash
+ORD-0229,2025-07-05,Monitor,LG,24MP400,4900,3850,1,0,4900.0,3850,1050.0,Giza,Retail Store,Bank Transfer
+ORD-0299,2025-07-08,Monitor,Samsung,24-inch FHD,5200,4100,3,0,15600.0,12300,3300.0,Cairo,Retail Store,Wallet
+ORD-0160,2025-07-15,Monitor,Samsung,24-inch FHD,5200,4100,1,0,5200.0,4100,1100.0,Tanta,Retail Store,Wallet
+ORD-0289,2025-07-21,Monitor,Samsung,24-inch FHD,5200,4100,1,0,5200.0,4100,1100.0,Giza,Online,Wallet
+ORD-0133,2025-07-25,Monitor,Samsung,24-inch FHD,5200,4100,1,10,4680.0,4100,580.0,Tanta,Online,Bank Transfer
+ORD-0360,2025-08-27,Monitor,LG,24MP400,4900,3850,3,0,14700.0,11550,3150.0,Benha,Retail Store,Wallet
+ORD-0304,2025-08-30,Monitor,LG,24MP400,4900,3850,3,10,13230.0,11550,1680.0,Benha,Marketplace,Cash
+ORD-0106,2025-09-09,Monitor,Samsung,24-inch FHD,5200,4100,2,0,10400.0,8200,2200.0,Cairo,Online,Wallet
+ORD-0312,2025-10-03,Monitor,Samsung,24-inch FHD,5200,4100,1,0,5200.0,4100,1100.0,Tanta,Marketplace,Wallet
+ORD-0279,2025-10-31,Monitor,LG,24MP400,4900,3850,2,10,8820.0,7700,1120.0,Giza,Online,Wallet
+ORD-0329,2025-11-07,Monitor,Samsung,24-inch FHD,5200,4100,1,0,5200.0,4100,1100.0,Benha,Marketplace,Bank Transfer
+ORD-0022,2025-11-17,Monitor,LG,24MP400,4900,3850,4,0,19600.0,15400,4200.0,Benha,Marketplace,Credit Card
+ORD-0208,2025-12-09,Monitor,LG,24MP400,4900,3850,2,10,8820.0,7700,1120.0,Cairo,Retail Store,Cash
+ORD-0262,2025-12-14,Monitor,LG,24MP400,4900,3850,3,0,14700.0,11550,3150.0,Cairo,Online,Bank Transfer
+ORD-0333,2025-12-15,Monitor,LG,24MP400,4900,3850,1,0,4900.0,3850,1050.0,Tanta,Retail Store,Cash
+ORD-0331,2025-12-27,Monitor,LG,24MP400,4900,3850,1,0,4900.0,3850,1050.0,Tanta,Online,Cash

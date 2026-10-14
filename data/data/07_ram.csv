@@ -1,0 +1,20 @@
+﻿Order_ID,Order_Date,Category,Brand,Product,Unit_Price_EGP,Unit_Cost_EGP,Quantity,Discount_Percent,Revenue_EGP,Cost_EGP,Profit_EGP,Region,Sales_Channel,Payment_Method
+ORD-0084,2025-01-04,RAM,Corsair,Vengeance 16GB,1700,1220,1,10,1530.0,1220,310.0,Alexandria,Retail Store,Bank Transfer
+ORD-0326,2025-01-06,RAM,Corsair,Vengeance 16GB,1700,1220,2,0,3400.0,2440,960.0,Alexandria,Marketplace,Credit Card
+ORD-0088,2025-01-14,RAM,Corsair,Vengeance 16GB,1700,1220,2,0,3400.0,2440,960.0,Mansoura,Online,Bank Transfer
+ORD-0280,2025-01-15,RAM,Corsair,Vengeance 16GB,1700,1220,1,0,1700.0,1220,480.0,Benha,Marketplace,Wallet
+ORD-0220,2025-01-22,RAM,Corsair,Vengeance 16GB,1700,1220,2,0,3400.0,2440,960.0,Tanta,Marketplace,Credit Card
+ORD-0065,2025-01-23,RAM,Corsair,Vengeance 16GB,1700,1220,1,5,1615.0,1220,395.0,Cairo,Marketplace,Credit Card
+ORD-0202,2025-01-27,RAM,Corsair,Vengeance 16GB,1700,1220,2,0,3400.0,2440,960.0,Tanta,Online,Cash
+ORD-0008,2025-02-05,RAM,Corsair,Vengeance 16GB,1700,1220,1,0,1700.0,1220,480.0,Giza,Retail Store,Cash
+ORD-0117,2025-02-13,RAM,Corsair,Vengeance 16GB,1700,1220,4,15,5780.0,4880,900.0,Cairo,Marketplace,Bank Transfer
+ORD-0165,2025-03-09,RAM,Corsair,Vengeance 16GB,1700,1220,1,0,1700.0,1220,480.0,Alexandria,Retail Store,Bank Transfer
+ORD-0264,2025-03-20,RAM,Corsair,Vengeance 16GB,1700,1220,1,5,1615.0,1220,395.0,Alexandria,Retail Store,Bank Transfer
+ORD-0175,2025-03-21,RAM,Corsair,Vengeance 16GB,1700,1220,2,10,3060.0,2440,620.0,Benha,Online,Bank Transfer
+ORD-0251,2025-06-20,RAM,Corsair,Vengeance 16GB,1700,1220,2,0,3400.0,2440,960.0,Alexandria,Marketplace,Wallet
+ORD-0146,2025-07-30,RAM,Corsair,Vengeance 16GB,1700,1220,1,0,1700.0,1220,480.0,Benha,Retail Store,Bank Transfer
+ORD-0335,2025-08-25,RAM,Corsair,Vengeance 16GB,1700,1220,1,5,1615.0,1220,395.0,Alexandria,Marketplace,Cash
+ORD-0298,2025-09-18,RAM,Corsair,Vengeance 16GB,1700,1220,1,0,1700.0,1220,480.0,Benha,Marketplace,Wallet
+ORD-0180,2025-10-11,RAM,Corsair,Vengeance 16GB,1700,1220,1,0,1700.0,1220,480.0,Giza,Online,Wallet
+ORD-0356,2025-10-14,RAM,Corsair,Vengeance 16GB,1700,1220,2,0,3400.0,2440,960.0,Giza,Retail Store,Wallet
+ORD-0144,2025-12-04,RAM,Corsair,Vengeance 16GB,1700,1220,2,0,3400.0,2440,960.0,Giza,Retail Store,Bank Transfer

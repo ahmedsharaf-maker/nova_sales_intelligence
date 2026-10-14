@@ -1,0 +1,48 @@
+﻿Order_ID,Order_Date,Category,Brand,Product,Unit_Price_EGP,Unit_Cost_EGP,Quantity,Discount_Percent,Revenue_EGP,Cost_EGP,Profit_EGP,Region,Sales_Channel,Payment_Method
+ORD-0336,2025-01-02,Headphones,JBL,Tune 510BT,1800,1250,1,5,1710.0,1250,460.0,Tanta,Online,Cash
+ORD-0021,2025-01-02,Headphones,Anker,Soundcore Q20i,2600,1850,1,15,2210.0,1850,360.0,Benha,Retail Store,Credit Card
+ORD-0128,2025-01-21,Headphones,Redragon,H510 Zeus,2100,1430,1,10,1890.0,1430,460.0,Benha,Retail Store,Wallet
+ORD-0249,2025-01-23,Headphones,JBL,Tune 510BT,1800,1250,3,5,5130.0,3750,1380.0,Alexandria,Retail Store,Cash
+ORD-0337,2025-02-02,Headphones,Anker,Soundcore Q20i,2600,1850,1,0,2600.0,1850,750.0,Cairo,Online,Bank Transfer
+ORD-0209,2025-02-09,Headphones,Anker,Soundcore Q20i,2600,1850,1,10,2340.0,1850,490.0,Tanta,Retail Store,Bank Transfer
+ORD-0243,2025-02-10,Headphones,Redragon,H510 Zeus,2100,1430,2,0,4200.0,2860,1340.0,Giza,Online,Bank Transfer
+ORD-0353,2025-03-10,Headphones,Anker,Soundcore Q20i,2600,1850,2,0,5200.0,3700,1500.0,Alexandria,Online,Wallet
+ORD-0038,2025-03-26,Headphones,JBL,Tune 510BT,1800,1250,4,0,7200.0,5000,2200.0,Mansoura,Retail Store,Bank Transfer
+ORD-0257,2025-04-06,Headphones,JBL,Tune 510BT,1800,1250,1,0,1800.0,1250,550.0,Mansoura,Retail Store,Wallet
+ORD-0096,2025-04-12,Headphones,JBL,Tune 510BT,1800,1250,4,0,7200.0,5000,2200.0,Benha,Marketplace,Credit Card
+ORD-0190,2025-04-27,Headphones,Anker,Soundcore Q20i,2600,1850,2,0,5200.0,3700,1500.0,Mansoura,Retail Store,Bank Transfer
+ORD-0234,2025-05-03,Headphones,Redragon,H510 Zeus,2100,1430,1,0,2100.0,1430,670.0,Mansoura,Online,Wallet
+ORD-0059,2025-05-08,Headphones,Anker,Soundcore Q20i,2600,1850,3,0,7800.0,5550,2250.0,Benha,Online,Bank Transfer
+ORD-0109,2025-05-09,Headphones,Redragon,H510 Zeus,2100,1430,1,0,2100.0,1430,670.0,Benha,Online,Wallet
+ORD-0343,2025-05-22,Headphones,Redragon,H510 Zeus,2100,1430,1,0,2100.0,1430,670.0,Benha,Online,Cash
+ORD-0351,2025-06-03,Headphones,Anker,Soundcore Q20i,2600,1850,1,0,2600.0,1850,750.0,Tanta,Retail Store,Credit Card
+ORD-0212,2025-06-23,Headphones,JBL,Tune 510BT,1800,1250,3,0,5400.0,3750,1650.0,Giza,Online,Cash
+ORD-0201,2025-06-24,Headphones,JBL,Tune 510BT,1800,1250,1,0,1800.0,1250,550.0,Alexandria,Marketplace,Wallet
+ORD-0006,2025-06-26,Headphones,JBL,Tune 510BT,1800,1250,1,5,1710.0,1250,460.0,Cairo,Marketplace,Bank Transfer
+ORD-0177,2025-07-05,Headphones,Redragon,H510 Zeus,2100,1430,4,0,8400.0,5720,2680.0,Benha,Retail Store,Wallet
+ORD-0285,2025-07-09,Headphones,JBL,Tune 510BT,1800,1250,1,0,1800.0,1250,550.0,Cairo,Retail Store,Credit Card
+ORD-0292,2025-07-25,Headphones,JBL,Tune 510BT,1800,1250,1,0,1800.0,1250,550.0,Tanta,Online,Wallet
+ORD-0287,2025-08-03,Headphones,JBL,Tune 510BT,1800,1250,3,0,5400.0,3750,1650.0,Giza,Retail Store,Wallet
+ORD-0090,2025-08-04,Headphones,JBL,Tune 510BT,1800,1250,1,0,1800.0,1250,550.0,Cairo,Retail Store,Cash
+ORD-0083,2025-08-04,Headphones,Anker,Soundcore Q20i,2600,1850,1,0,2600.0,1850,750.0,Tanta,Marketplace,Cash
+ORD-0189,2025-08-09,Headphones,Redragon,H510 Zeus,2100,1430,2,0,4200.0,2860,1340.0,Benha,Online,Credit Card
+ORD-0286,2025-08-19,Headphones,Redragon,H510 Zeus,2100,1430,1,0,2100.0,1430,670.0,Cairo,Online,Wallet
+ORD-0028,2025-08-20,Headphones,Redragon,H510 Zeus,2100,1430,3,0,6300.0,4290,2010.0,Giza,Online,Wallet
+ORD-0102,2025-08-26,Headphones,Redragon,H510 Zeus,2100,1430,1,0,2100.0,1430,670.0,Benha,Retail Store,Wallet
+ORD-0141,2025-08-30,Headphones,Anker,Soundcore Q20i,2600,1850,3,0,7800.0,5550,2250.0,Tanta,Online,Bank Transfer
+ORD-0078,2025-09-16,Headphones,Redragon,H510 Zeus,2100,1430,2,0,4200.0,2860,1340.0,Tanta,Retail Store,Credit Card
+ORD-0143,2025-09-17,Headphones,Anker,Soundcore Q20i,2600,1850,1,0,2600.0,1850,750.0,Cairo,Retail Store,Wallet
+ORD-0071,2025-09-19,Headphones,Redragon,H510 Zeus,2100,1430,2,0,4200.0,2860,1340.0,Benha,Online,Cash
+ORD-0223,2025-09-26,Headphones,Redragon,H510 Zeus,2100,1430,5,0,10500.0,7150,3350.0,Giza,Retail Store,Wallet
+ORD-0346,2025-10-04,Headphones,JBL,Tune 510BT,1800,1250,1,0,1800.0,1250,550.0,Cairo,Online,Wallet
+ORD-0044,2025-10-17,Headphones,Anker,Soundcore Q20i,2600,1850,2,0,5200.0,3700,1500.0,Alexandria,Online,Wallet
+ORD-0043,2025-10-19,Headphones,JBL,Tune 510BT,1800,1250,1,0,1800.0,1250,550.0,Tanta,Online,Cash
+ORD-0116,2025-10-23,Headphones,JBL,Tune 510BT,1800,1250,2,5,3420.0,2500,920.0,Cairo,Online,Credit Card
+ORD-0119,2025-10-29,Headphones,Redragon,H510 Zeus,2100,1430,1,15,1785.0,1430,355.0,Alexandria,Marketplace,Cash
+ORD-0101,2025-10-31,Headphones,Redragon,H510 Zeus,2100,1430,1,0,2100.0,1430,670.0,Giza,Online,Wallet
+ORD-0284,2025-11-07,Headphones,Redragon,H510 Zeus,2100,1430,1,0,2100.0,1430,670.0,Benha,Retail Store,Wallet
+ORD-0074,2025-11-19,Headphones,Redragon,H510 Zeus,2100,1430,1,0,2100.0,1430,670.0,Benha,Marketplace,Bank Transfer
+ORD-0015,2025-11-26,Headphones,JBL,Tune 510BT,1800,1250,3,0,5400.0,3750,1650.0,Alexandria,Online,Credit Card
+ORD-0147,2025-11-30,Headphones,JBL,Tune 510BT,1800,1250,5,15,7650.0,6250,1400.0,Mansoura,Online,Credit Card
+ORD-0194,2025-12-07,Headphones,Anker,Soundcore Q20i,2600,1850,1,10,2340.0,1850,490.0,Mansoura,Marketplace,Cash
+ORD-0345,2025-12-27,Headphones,Redragon,H510 Zeus,2100,1430,2,10,3780.0,2860,920.0,Giza,Marketplace,Cash

@@ -1,0 +1,14 @@
+﻿Order_ID,Order_Date,Category,Brand,Product,Unit_Price_EGP,Unit_Cost_EGP,Quantity,Discount_Percent,Revenue_EGP,Cost_EGP,Profit_EGP,Region,Sales_Channel,Payment_Method
+ORD-0120,2025-02-20,Webcam,Logitech,C270 HD,1350,900,4,10,4860.0,3600,1260.0,Giza,Marketplace,Credit Card
+ORD-0176,2025-05-24,Webcam,Logitech,C270 HD,1350,900,1,0,1350.0,900,450.0,Alexandria,Online,Bank Transfer
+ORD-0162,2025-05-27,Webcam,Logitech,C270 HD,1350,900,2,5,2565.0,1800,765.0,Giza,Marketplace,Wallet
+ORD-0064,2025-06-10,Webcam,Logitech,C270 HD,1350,900,1,0,1350.0,900,450.0,Tanta,Online,Bank Transfer
+ORD-0069,2025-07-27,Webcam,Logitech,C270 HD,1350,900,2,0,2700.0,1800,900.0,Cairo,Retail Store,Wallet
+ORD-0019,2025-09-28,Webcam,Logitech,C270 HD,1350,900,5,0,6750.0,4500,2250.0,Tanta,Online,Cash
+ORD-0011,2025-10-01,Webcam,Logitech,C270 HD,1350,900,2,5,2565.0,1800,765.0,Giza,Retail Store,Bank Transfer
+ORD-0188,2025-10-08,Webcam,Logitech,C270 HD,1350,900,2,5,2565.0,1800,765.0,Mansoura,Marketplace,Wallet
+ORD-0247,2025-10-20,Webcam,Logitech,C270 HD,1350,900,1,0,1350.0,900,450.0,Benha,Marketplace,Cash
+ORD-0118,2025-11-13,Webcam,Logitech,C270 HD,1350,900,2,0,2700.0,1800,900.0,Tanta,Retail Store,Bank Transfer
+ORD-0136,2025-11-17,Webcam,Logitech,C270 HD,1350,900,3,0,4050.0,2700,1350.0,Cairo,Online,Wallet
+ORD-0185,2025-12-04,Webcam,Logitech,C270 HD,1350,900,1,0,1350.0,900,450.0,Mansoura,Marketplace,Cash
+ORD-0198,2025-12-22,Webcam,Logitech,C270 HD,1350,900,4,0,5400.0,3600,1800.0,Giza,Retail Store,Wallet

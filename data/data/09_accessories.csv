@@ -1,0 +1,31 @@
+﻿Order_ID,Order_Date,Category,Brand,Product,Unit_Price_EGP,Unit_Cost_EGP,Quantity,Discount_Percent,Revenue_EGP,Cost_EGP,Profit_EGP,Region,Sales_Channel,Payment_Method
+ORD-0315,2025-01-03,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,3,15,1657.5,1170,487.5,Giza,Retail Store,Bank Transfer
+ORD-0344,2025-01-09,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,1,0,650.0,390,260.0,Cairo,Online,Cash
+ORD-0179,2025-01-11,Accessories,Ugreen,USB-C Hub,1100,720,2,0,2200.0,1440,760.0,Alexandria,Online,Credit Card
+ORD-0314,2025-02-21,Accessories,Ugreen,USB-C Hub,1100,720,1,0,1100.0,720,380.0,Benha,Retail Store,Cash
+ORD-0196,2025-02-25,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,2,0,1300.0,780,520.0,Tanta,Retail Store,Cash
+ORD-0210,2025-02-28,Accessories,Ugreen,USB-C Hub,1100,720,1,0,1100.0,720,380.0,Alexandria,Online,Bank Transfer
+ORD-0246,2025-05-04,Accessories,Ugreen,USB-C Hub,1100,720,2,5,2090.0,1440,650.0,Alexandria,Retail Store,Cash
+ORD-0020,2025-05-17,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,3,5,1852.5,1170,682.5,Alexandria,Online,Wallet
+ORD-0001,2025-05-21,Accessories,Ugreen,USB-C Hub,1100,720,1,0,1100.0,720,380.0,Giza,Marketplace,Cash
+ORD-0049,2025-06-03,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,3,10,1755.0,1170,585.0,Cairo,Online,Wallet
+ORD-0080,2025-08-14,Accessories,Ugreen,USB-C Hub,1100,720,1,0,1100.0,720,380.0,Alexandria,Online,Wallet
+ORD-0235,2025-08-14,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,4,0,2600.0,1560,1040.0,Alexandria,Retail Store,Bank Transfer
+ORD-0354,2025-08-19,Accessories,Ugreen,USB-C Hub,1100,720,1,10,990.0,720,270.0,Cairo,Marketplace,Credit Card
+ORD-0245,2025-08-23,Accessories,Ugreen,USB-C Hub,1100,720,3,0,3300.0,2160,1140.0,Mansoura,Marketplace,Cash
+ORD-0135,2025-08-25,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,3,0,1950.0,1170,780.0,Giza,Marketplace,Wallet
+ORD-0172,2025-08-26,Accessories,Ugreen,USB-C Hub,1100,720,1,10,990.0,720,270.0,Alexandria,Marketplace,Bank Transfer
+ORD-0300,2025-08-31,Accessories,Ugreen,USB-C Hub,1100,720,1,0,1100.0,720,380.0,Benha,Marketplace,Credit Card
+ORD-0140,2025-09-13,Accessories,Ugreen,USB-C Hub,1100,720,3,10,2970.0,2160,810.0,Alexandria,Marketplace,Wallet
+ORD-0317,2025-10-01,Accessories,Ugreen,USB-C Hub,1100,720,2,5,2090.0,1440,650.0,Cairo,Online,Bank Transfer
+ORD-0340,2025-10-04,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,4,0,2600.0,1560,1040.0,Alexandria,Online,Credit Card
+ORD-0002,2025-10-07,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,2,0,1300.0,780,520.0,Mansoura,Online,Cash
+ORD-0216,2025-10-17,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,4,5,2470.0,1560,910.0,Tanta,Retail Store,Wallet
+ORD-0281,2025-10-20,Accessories,Ugreen,USB-C Hub,1100,720,1,0,1100.0,720,380.0,Benha,Online,Bank Transfer
+ORD-0130,2025-10-23,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,3,0,1950.0,1170,780.0,Giza,Retail Store,Bank Transfer
+ORD-0231,2025-11-13,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,1,0,650.0,390,260.0,Mansoura,Online,Credit Card
+ORD-0164,2025-11-18,Accessories,Ugreen,USB-C Hub,1100,720,1,5,1045.0,720,325.0,Alexandria,Retail Store,Cash
+ORD-0282,2025-11-25,Accessories,Ugreen,USB-C Hub,1100,720,2,15,1870.0,1440,430.0,Mansoura,Online,Bank Transfer
+ORD-0307,2025-12-15,Accessories,TP-Link,USB Wi-Fi Adapter,650,390,3,5,1852.5,1170,682.5,Benha,Retail Store,Bank Transfer
+ORD-0252,2025-12-17,Accessories,Ugreen,USB-C Hub,1100,720,1,0,1100.0,720,380.0,Benha,Retail Store,Credit Card
+ORD-0159,2025-12-20,Accessories,Ugreen,USB-C Hub,1100,720,4,0,4400.0,2880,1520.0,Alexandria,Online,Bank Transfer
