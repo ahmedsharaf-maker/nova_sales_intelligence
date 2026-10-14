@@ -190,3 +190,7 @@ st.markdown("""
     <p>© 2026 NOVA Sales Intelligence</p>
 </div>
 """, unsafe_allow_html=True)
+
+df = load_repo_data()
+st.write("CSV files found:", list(DATA_DIR.rglob("*.csv")))
+st.write("Rows loaded:", len(df))
